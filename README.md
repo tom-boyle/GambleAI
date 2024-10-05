@@ -1,7 +1,7 @@
 
-# Gambler AI – Sports Betting Recommendation System
+# GambleAI – Sports Betting Recommendation System
 
-**Gambler AI** is a sports betting recommendation system that uses live data from the **SofaScore API** to generate predictions for football matches. The AI analyzes recent team performance, head-to-head matchups, and other key stats to provide betting tips in real time. This project was developed live, in one night, and tested during the ongoing football matches on October 5, 2024.
+**GambleAI** is a sports betting recommendation system that uses live data from the **SofaScore API** to generate predictions for football matches. The AI analyzes recent team performance, head-to-head matchups, and other key stats to provide betting tips in real time. This project was developed live, in one night, and tested during the ongoing football matches on October 5, 2024.
 
 ## Project Overview
 
