@@ -33,7 +33,7 @@ This project is being developed live and promoted tonight. Follow the progress o
 
 ### To Do:
 - [x] SofaScore API integration
-- [ ] Basic prediction model
+- [x] Basic prediction model
 - [ ] Discord bot integration
 - [ ] Subscription model setup
 
